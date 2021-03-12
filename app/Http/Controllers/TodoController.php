@@ -15,8 +15,8 @@ class TodoController extends Controller
      */
     public function index()
     {
-        //
-        return view('welcome');
+        $todos = Todo::latest()->get();
+        return view('welcome')->with('todos', $todos);
     }
 
     /**
@@ -80,7 +80,8 @@ class TodoController extends Controller
      */
     public function update(Request $request, Todo $todo)
     {
-        //
+        $todo->update($request->all());
+        return redirect('/');
     }
 
     /**
