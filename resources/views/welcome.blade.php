@@ -1,7 +1,7 @@
 @extends('layouts.app')
 @section('content')
     <div class="w-100 h-100 d-flex justify-content-center align-items-center">
-        <div class="w-50">
+        <div class="text-center" style="width: 40%">
         <h1 class="display-2 text-white">Todo APP</h1>
         <form action="{{ route('todo.store') }}" method="POST">
             @csrf
