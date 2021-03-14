@@ -61,3 +61,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # Todo_App_php
+
+Todo App was built with PHP Laravel v8. 
+Need to run NPM install in the terminal if you want to clone the project.
