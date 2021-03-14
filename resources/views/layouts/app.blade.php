@@ -15,7 +15,8 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito">
 
     {{-- styles --}}
-    <link rel="stylesheet" href="{{  asset('css/app.css') }}">
+    
+    <link href="/css/app.css" rel="stylesheet">
 
     <title>Todo App</title>
 </head>
