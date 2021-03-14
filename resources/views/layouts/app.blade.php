@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     {{-- scripts --}}
-    <script src="{{ asset('js/app.js') }}" defer></script>
+    <script src="/js/app.js"></script>
     
     {{-- fonts --}}
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
