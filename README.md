@@ -63,7 +63,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 # Todo_App_php
 
-Todo App is a dynamic desktop application using PHP, Laravel v.8 with CRUD, and deployed with Heroku. If you wish to clone, you must run "npm install" in the terminal before running application using "php artisan serv" in the terminal.
+Todo App is a dynamic desktop application connected to mySql database using PHP, Laravel v.8 with CRUD, and deployed with Heroku. If you wish to clone, you must run "npm install" in the terminal before running application using "php artisan serv" in the terminal.
 
 # Screenshot
 
