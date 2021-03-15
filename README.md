@@ -60,7 +60,15 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
 # Todo_App_php
 
-Todo App was built with PHP Laravel v8. 
-Need to run NPM install in the terminal if you want to clone the project.
+Todo App is a dynamic desktop application using PHP, Laravel v.8 with CRUD, and deployed with Heroku. If you wish to clone, you must run "npm install" in the terminal before running application using "php artisan serv" in the terminal.
+
+# Screenshot
+
+![todophpss](https://user-images.githubusercontent.com/69645144/111111768-4d34d100-8535-11eb-99fe-5b7dd16356eb.png)
+
+# Demo Giphy
+
+![todophpgiphy](https://user-images.githubusercontent.com/69645144/111112143-05fb1000-8536-11eb-9231-d352dab5a38f.gif)
