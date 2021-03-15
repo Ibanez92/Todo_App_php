@@ -16,7 +16,7 @@
 
     {{-- styles --}}
     
-    <link href="/css/app.css" rel="stylesheet">
+    <link href="{{  ass }}" rel="stylesheet">
 
     <title>Todo App</title>
 </head>
